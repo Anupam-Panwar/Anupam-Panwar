@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Improving my Development Skills
-- 👯 I’m looking to collaborate on full stack Project
+- 👯 I’m looking to collaborate on Full Stack Projects
 - 💬 Ask me about Development and Technology
 - 📫 How to reach me: [HERE](https://www.linkedin.com/in/anupam-panwar/)
 - ⚡ Fun fact: " It's all about <strong>Concept</strong> and <strong>Practice</strong> "
